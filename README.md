@@ -1,4 +1,4 @@
-# Simulatore MTU a nastro singolo come accettore di linguaggio
+# Simulatore Macchina di Turing Universale a nastro singolo come accettore di linguaggio
 
 - Documentazione del progetto e descrizione dei principi di funzionamento
 - Test con diversi gradi di difficoltà
