@@ -1,4 +1,4 @@
-# Simulatore Macchina di Turing Universale a nastro singolo come accettore di linguaggio
+# Simulatore Macchina di Turing Universale non deterministica a nastro singolo come accettore di linguaggio
 
 - [Documentazione](https://github.com/calaaa/MTUSim/blob/master/Documentazione.pdf) del progetto e descrizione dei principi di funzionamento
 - [Test](https://github.com/calaaa/MTUSim/tree/master/Test) con diversi gradi di difficoltà
