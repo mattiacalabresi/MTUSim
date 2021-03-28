@@ -8,4 +8,4 @@
 - Nel caso si utilizzino casi di test con lunghezza di ogni transizione superiore ai 256 caratteri, modificare opportunamente la costante `TR_LEN`
 - E' possibile modificare il numero di blocchi allocati simultaneamente tramite la costante `TR_CHUNK`
 ---
-main.c SHA256: 625cae980b959abc0ba312dd2e3bf4242db4d6fefb47ac009e4e478cbbfd83a3
+main.c SHA256: `625cae980b959abc0ba312dd2e3bf4242db4d6fefb47ac009e4e478cbbfd83a3`
